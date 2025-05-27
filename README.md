@@ -7,6 +7,7 @@ This repository contains standardized processes, signal logic, and entry framewo
 ---
 
 ## 📁 Project Structure
+
 /
 ├── README.md
 ├── SOP/
@@ -20,6 +21,7 @@ This repository contains standardized processes, signal logic, and entry framewo
 ├── docs/
 │ └── glossary.md
 ├── LICENSE
+
 ---
 
 ## 📘 Contents
