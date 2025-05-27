@@ -1,5 +1,5 @@
-pandas              # For loading, manipulating, and analyzing CSV price data
-cryptography        # Required for secure EC key handling in JWT signing
-pyjwt               # For generating Coinbase-compatible JSON Web Tokens
-python-dotenv       # Loads environment variables from .env files
-ta                  # Technical Analysis indicators like RSI, MACD, MA, OBV
+pandas
+cryptography
+pyjwt
+python-dotenv
+ta
